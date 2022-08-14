@@ -7,6 +7,7 @@ Avatar game front end created using react, bootstrap, css, sweetalert2. backend 
 
 ## Table of Contents
 
+- [Script Information](#script-information)
 - [General Info](#general-information)
 - [Tools Used](#tools-used)
 - [Features](#features)
@@ -14,6 +15,11 @@ Avatar game front end created using react, bootstrap, css, sweetalert2. backend 
 - [Room for Improvement](#room-for-improvement)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+
+## Script Information
+
+- bundle install
+- bundle exec rake server
 
 ## General Information
 
