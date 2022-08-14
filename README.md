@@ -1,5 +1,6 @@
 # Avatar Game By MG (Backend)
 
+Frontend deployed link : https://mglenn23.github.io/phase3-frontend-react/
 > This project Frontend in github repository:
 > [https://github.com/Mglenn23/phase3-frontend-react](https://github.com/Mglenn23/phase3-frontend-react)
 
