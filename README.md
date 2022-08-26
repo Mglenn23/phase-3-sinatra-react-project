@@ -1,5 +1,6 @@
 # Avatar Game By MG (Backend)
 
+Frontend deployed link : https://mglenn23.github.io/phase3-frontend-react/
 > This project Frontend in github repository:
 > [https://github.com/Mglenn23/phase3-frontend-react](https://github.com/Mglenn23/phase3-frontend-react)
 
@@ -25,7 +26,7 @@ Avatar game front end created using react, bootstrap, css, sweetalert2. backend 
 
 - One page load without refresh the page, using react-router
 - Create, update, delete card data
-- Backend use sinatara ruby on rails
+- Backend use sinatara ruby
 - Leaderboard game
 - Simple design website with interactive game play with Enemy
 
