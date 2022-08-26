@@ -16,12 +16,12 @@ class ApplicationController < Sinatra::Base
     types.to_json
   end
   
-  get '/get_Card_data' do
+  get '/get_card_data' do
     card = Card.full_data
     card.to_json
   end
 
-  get '/get_Leaderboard' do
+  get '/get_leaderboard' do
     card = Leaderboards.all.order(total_win: :desc)
     card.to_json
   end
